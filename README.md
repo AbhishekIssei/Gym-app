@@ -1,6 +1,6 @@
-
 ---
-````markdown
+
+```markdown
 # 🏋️ Gym App
 
 A modern, responsive web application built with **React 19**, **Vite**, and **Tailwind CSS** to provide a sleek and performant user interface for fitness or gym-related platforms.
